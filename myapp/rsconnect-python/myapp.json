@@ -1,0 +1,11 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/Francisco/Documents/GitHub/Data_science_portfolio/how_close/algorithm/myapp",
+        "app_url": "https://fcojara506.shinyapps.io/how_close/",
+        "app_id": 8862011,
+        "app_guid": null,
+        "title": "how_close",
+        "app_mode": "python-shiny"
+    }
+}
